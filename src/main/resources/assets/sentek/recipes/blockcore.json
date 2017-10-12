@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "sentek:blockcore"
+  },
+  "pattern": [
+    "s",
+    "c"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "s": {
+      "item": "minecraft:sapling",
+      "data": 0
+    },
+    "c": {
+      "item": "minecraft:cobblestone"
+    }
+  }
+}

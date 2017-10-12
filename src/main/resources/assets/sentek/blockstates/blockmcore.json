@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { "model": "sentek:blockMCore" },
+        "triggered=true": { "model": "sentek:blockMCore" },
+        "triggered=false": { "model": "sentek:blockMCore" }
+    }
+}

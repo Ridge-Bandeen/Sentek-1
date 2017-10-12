@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sentek",
+  "name": "Sentek Runic Teleporters",
+  "description": "Simple teleporter constructs by Sen",
+  "version": "",
+  "mcversion": "${mcversion}",
+  "url": "www.zenotek.ca",
+  "updateUrl": "",
+  "authorList": ["Sen isSaqqara"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
