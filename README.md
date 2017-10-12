@@ -1,2 +1,2 @@
 # Sentek
-Sentek Runic Teleporters
+Sentek Main Repository
